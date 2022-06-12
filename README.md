@@ -23,18 +23,13 @@ Want to know more about me? [Check out my portfolio.](https://killy10o10.github.
 
 <br>
 
-<a href="https://github.com/killy10o10">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killy10o10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/killy10o10">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=killy10o10&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Quami's GitHub Stats" />
-</a>
-
+| <a href="https://github.com/killy10o10"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=killy10o10&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&border_radius=10" alt="Quami's Github Stats" /></a> | <a href="https://github.com/killy10o10"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killy10o10&hide_border=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=10&card_width=260" /></a> | 
+| ------------- | ------------- |
 <br>
 <br>
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
