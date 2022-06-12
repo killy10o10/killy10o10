@@ -1,10 +1,10 @@
 [![Quami's GitHub Banner](./assets/GitHubHeader.png)](https://killy10o10.github.io/Portfolio-Mobile/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/killy10o10/killy10o10)]
+![Visits Badge](https://badges.pufler.dev/visits/killy10o10/killy10o10)
 
 Hey there 👋
 
-I’m Killy, an aspiring full-stack engineer, currently learning with microverse and a self-proclaimed designer who specializes in motion graphics. I am currently learning ES6, Webpack and React. Looking forward to collaborate on projects with people all around the globe🌐
+I’m Killy, an aspiring full-stack engineer, currently learning with microverse and a self-proclaimed designer who specializes in motion graphics. I am currently learning ES6, Webpack and React. Looking forward to collaborate on projects with people all around the globe.
 
 Want to know more about me? [Check out my portfolio.](https://killy10o10.github.io/Portfolio-Mobile/)
 
@@ -24,7 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://killy10o10.github.
 <br>
 
 <a href="https://github.com/killy10o10">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killy10o10&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killy10o10&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/killy10o10">
