@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Killy, an aspiring full-stack engineer, currently learning with microverse and a self-proclaimed designer who specializes in motion graphics. I am currently learning ES6, Webpack and React. Looking forward to collaborate on projects with people all around the globe.
+I’m Killy, a frontend web developer doing all things creative to make the web a more unique and awesome place. Also, a self-proclaimed designer who specializes in motion graphics. Looking forward to collaborate on projects with people all around the globe.
 
 Want to know more about me? [Check out my portfolio.](https://killy10o10.github.io/Portfolio-Mobile/)
 
@@ -13,9 +13,8 @@ Want to know more about me? [Check out my portfolio.](https://killy10o10.github.
 - 🔭 A Micronaut 🚀.
 - 🌱 Currently learning ES6, Webpack, React.
 - 👯 Looking to work with software engineers globally.
-- 💬 Ask me about Front end web dev.
-- 😄 Pronouns: They/Them.
-- ⚡ Fun fact: I'm a hardcore music lover.
+- ⚡ Coffee, motion graphics, music and art are my happy places
+- 👨🏾‍💻 I enjoy bringing a static design or idea to life and learning new technologies.
 
 <br/>
 
