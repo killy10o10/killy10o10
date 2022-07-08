@@ -1,6 +1,6 @@
 [![Quami's GitHub Banner](./assets/GitHubHeader.png)](https://killy10o10.github.io/Portfolio-Mobile/)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=killy10o10&repo=github-visitors-badge&countColor=%237B1E7A)
 
 Hey there 👋
 
