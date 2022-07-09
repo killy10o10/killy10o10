@@ -11,7 +11,7 @@ Want to know more about me? [Check out my portfolio.](https://killy10o10.github.
 <br/>
 
 - 🔭 A Micronaut 🚀.
-- 🌱 Currently learning ES6, Webpack, React.
+- 🌱 Currently learning React and Ruby.
 - 👯 Looking to work with software engineers globally.
 - ⚡ Coffee, motion graphics, music and art are my happy places
 - 👨🏾‍💻 I enjoy bringing a static design or idea to life and learning new technologies.
@@ -29,6 +29,9 @@ Want to know more about me? [Check out my portfolio.](https://killy10o10.github.
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/UnitTest-Jest-informational?style=flat&logo=Jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Bundle-WebPack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Build-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+
