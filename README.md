@@ -10,8 +10,8 @@ Want to know more about me? [Check out my portfolio.](https://killy10o10.github.
 
 <br/>
 
-- 🔭 A Micronaut 🚀.
-- 🌱 Currently learning React and Ruby.
+
+- 🌱 Currently learning React
 - 👯 Looking to work with software engineers globally.
 - ⚡ Coffee, motion graphics, music and art are my happy places
 - 👨🏾‍💻 I enjoy bringing a static design or idea to life and learning new technologies.
